@@ -34,5 +34,6 @@ SUMIF, dynamic range formulas for automated KPI calculations
 Emoji-based status indicators for quick visual scanning
 
 💡 Use Case
+
 This tracker is ideal for small home businesses, seasonal pop-up sales, or anyone managing bulk custom orders. It demonstrates practical use of Excel for real-world business operations — covering inventory, customer management, payment reconciliation, and profitability analysis all in one sheet.
 This tracker is ideal for small home businesses, seasonal pop-up sales, or anyone managing bulk custom orders. It demonstrates practical use of Excel for real-world business operations — covering inventory, customer management, payment reconciliation, and profitability analysis all in one sheet.
