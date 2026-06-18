@@ -1,4 +1,4 @@
-# DATA-ANALYSIS-PROJECT-
+# DATA-ANALYSIS-PROJECT
 
  Easter Egg Orders 2026 — Order Management & Sales Tracker
 This Excel-based order management system was built to track and manage all customer orders for a home-based Easter egg business in 2026. Designed to handle the full order lifecycle — from placement to delivery — the spreadsheet serves as a centralised hub for sales data, customer records, payment tracking, and profit analysis.
